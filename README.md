@@ -1,2 +1,2 @@
-# gitstudy
+# gitStudy
 keep makes me happy
